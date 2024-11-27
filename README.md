@@ -1,0 +1,1 @@
+# mirrord-go-debug-example
