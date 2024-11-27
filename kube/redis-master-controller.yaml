@@ -1,5 +1,5 @@
-kind: ReplicationController
-apiVersion: v1
+kind: Deployment
+apiVersion: apps/v1
 metadata:
   name: redis-master
   labels:
@@ -8,8 +8,9 @@ metadata:
 spec:
   replicas: 1
   selector:
-    app: redis
-    role: master
+    matchLabels:
+      app: redis
+      role: master
   template:
     metadata:
       labels:
