@@ -2,11 +2,11 @@
 
 <div align="center">
   <a href="https://go.dev">
-    <img src="https://go.dev/images/gophers/ladder.svg" width="150" alt="Go Logo"/>
+    <img src="images/go.svg" width="150" alt="Go Logo"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://mirrord.dev">
-    <img src="https://metalbear.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmirrord_logo.d38b3461.png&w=256&q=75" width="150" alt="mirrord Logo"/>
+    <img src="images/mirrord.svg" width="150" alt="mirrord Logo"/>
   </a>
 </div>
 
