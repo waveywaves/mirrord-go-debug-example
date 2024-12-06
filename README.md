@@ -1,12 +1,11 @@
 # Debugging Golang Applications with mirrord
 
 <div align="center">
-  <a href="https://go.dev">
-    <img src="images/go.svg" width="150" alt="Go Logo"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://mirrord.dev">
     <img src="images/mirrord.svg" width="150" alt="mirrord Logo"/>
+  </a>
+  <a href="https://go.dev">
+    <img src="images/go.svg" width="150" alt="Go Logo"/>
   </a>
 </div>
 
