@@ -1,1 +1,2 @@
-## Mirrord Go Debug Example
+## Debugging golang applications with mirrord
+
